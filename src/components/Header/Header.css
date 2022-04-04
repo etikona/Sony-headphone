@@ -1,0 +1,19 @@
+h2{
+    color: darkolivegreen;
+}
+span{
+    color:darkcyan;
+}
+nav{
+    background-color: black;
+    padding: 10px;
+}
+nav a{
+    color:white;
+text-decoration: none;
+padding: 10px;
+margin-right: 20px;
+}
+nav a:hover{
+    color:orange;
+}

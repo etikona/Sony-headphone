@@ -1,0 +1,16 @@
+.home{
+    display: flex;
+}
+h3{
+color:orange;
+};
+
+.order{
+    color: lightblue;
+    padding: 10px;
+    border-radius: 12px;
+}
+.img{
+    background-color: red;
+height: 200px;
+}
