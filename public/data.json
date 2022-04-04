@@ -1,0 +1,51 @@
+[
+    {
+      "id": "624ad72433f31f6224850a4c",
+      "rating": 4,
+      "comment": "Sound Quality is good",
+      "img": "https://images.unsplash.com/photo-1610041321461-37a7d578ebad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFuJTIwd2l0aCUyMGhlYWRwaG9uZXN8ZW58MHx8MHx8&w=1000&q=80",
+      "name": "Sondra Holder"
+    },
+    {
+      "id": "624ad724027e4f595a7b321a",
+      "rating": 3,
+      "comment": "It's an avarage product in this budget.",
+      "img": "https://www.rollingstone.com/wp-content/uploads/2020/11/Sony-WH-1000XM4-.jpg",
+      "name": "Veronica Lee"
+    },
+    {
+      "id": "624ad724f29f651e19592de7",
+      "rating": 5,
+      "comment": "One of the best Headphone I have ever used.!",
+      "img": "https://m-cdn.phonearena.com/images/articles/329717-940/Sony-Headphones-3.jpg",
+      "name": "Diane Freeman"
+    },
+    {
+      "id": "624ad7243209e35cf73e733c",
+      "rating": 5,
+      "comment": "My favourite Headphone. you can buy this",
+      "img": "https://images.hothardware.com/contentimages/newsitem/54541/content/sony-wh-1000xm4-deal-on-amazon-multidevice.jpg",
+      "name": "Alvarez Fulton"
+    },
+    {
+      "id": "624ad7243bf068a327135ef7",
+      "rating": 4,
+      "comment": "Best Headphone",
+      "img": "https://www.sony-asia.com/image/b8e4bf98d1416ffdf8a1737baf4ae155?fmt=png-alpha&wid=600",
+      "name": "Foreman Gonzalez"
+    },
+    {
+      "id": "624ad724a307a41b6f54c983",
+      "rating": 5,
+      "comment": "good quality sound and sony headphone with black colour was good.. 1.30hrs takes to recharge its bettery and can easily use upto 4 to 5 hours approximately with my experience ..  i will recommend it",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR7qI8ADw0p9XTrz11Dko46OU1LvUUoxolFg&usqp=CAU",
+      "name": "Paulette Reeves"
+    },
+    {
+      "id": "624ad7248bd8692b907df1be",
+      "rating": 4,
+      "comment": "I am satisfied with this product",
+      "img": "https://media.istockphoto.com/photos/relaxed-young-asian-woman-with-eyes-closed-sitting-on-her-bed-music-picture-id1238998139?b=1&k=20&m=1238998139&s=170667a&w=0&h=eu9_2GzthnuJiZGLSnOW1g5qAWdqJ0sCIiaiRrBwpZM=",
+      "name": "Sweeney Webb"
+    }
+  ]

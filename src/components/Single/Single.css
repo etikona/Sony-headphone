@@ -1,11 +1,6 @@
-
-.review img{
+.single img{
     background-color: slategray;
     height: 200px;
     width: 200px;
     margin-top: 20px;
-    }
-    .review{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
     }
