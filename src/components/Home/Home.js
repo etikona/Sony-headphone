@@ -2,7 +2,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import useHeadphones from '../../hooks/useHeadphones';
 import HomeReview from '../HomeReview/HomeReview';
-import Reviews from '../Reviews/Reviews';
 import './Home.css';
 
 const Home = () => {
@@ -21,25 +20,23 @@ const Home = () => {
                         Superior call quality with precise voice pickup
                         Wearing detection pauses playback when headphones are removed.
                     </p>
-                    < button className='order'>Order Now</button>
 
                 </div>
-
                 <img src="image/sony-wh.jpg" alt="" />
 
             </div>
             <div>
                 <div>
-             
+
                     <h4> Customer Reviews</h4>
                     <div className='review'>
-                      {
-                          headphones.map(headphone => <HomeReview key={headphone.id} headphone={headphone}></HomeReview>)
-                      }
+                        {
+                            headphones.map(headphone => <HomeReview key={headphone.id} headphone={headphone}></HomeReview>)
+                        }
 
                     </div>
                     <Link to='/review' >See More</Link>
-                    
+
                 </div>
             </div>
         </div>

@@ -47,18 +47,21 @@ const Dashboard = () => {
         <div className='dash-board'>
             <div>
                 <h3>Line Chart</h3>
+
                 <LineChart width={400} height={500} data={data}>
-                    <Line dataKey={'investment'}></Line>
-                    <Line dataKey={'sell'} stroke="#82ca9d"></Line>
+                    <Line dataKey={'investment'} stroke="#82ca9d"></Line>
+                    <Line dataKey={'sell'} stroke="#8884d8"></Line>
                     <CartesianGrid></CartesianGrid>
-                    <XAxis datakey={'month'}></XAxis>
+                    <XAxis></XAxis>
                     <YAxis></YAxis>
                     <Legend></Legend>
                     <Tooltip></Tooltip>
                 </LineChart>
+
             </div>
             <div>
                 <h3>Bar Chart</h3>
+
                 <BarChart width={400} height={500} data={data} >
                     <Bar dataKey={'sell'} fill="#82ca9d"></Bar>
                     <Bar dataKey={'revenue'} fill="#8884d8"></Bar>
@@ -68,6 +71,7 @@ const Dashboard = () => {
                     <Legend></Legend>
                     <Tooltip></Tooltip>
                 </BarChart>
+
 
             </div>
         </div>
